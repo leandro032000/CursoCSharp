@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\CursoCSharpe\Array\obj\Debug\net7.0\Array.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\CursoCSharpe\Array\obj\Debug\net7.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\CursoCSharpe\Array\obj\Debug\net7.0\Array.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\CursoCSharpe\Array\obj\Debug\net7.0\Array.AssemblyInfo.cs
+C:\Users\ACER\Desktop\CursoCSharpe\Array\obj\Debug\net7.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\CursoCSharpe\Array\bin\Debug\net7.0\Array.exe
+C:\Users\ACER\Desktop\CursoCSharpe\Array\bin\Debug\net7.0\Array.deps.json
+C:\Users\ACER\Desktop\CursoCSharpe\Array\bin\Debug\net7.0\Array.runtimeconfig.json
+C:\Users\ACER\Desktop\CursoCSharpe\Array\bin\Debug\net7.0\Array.dll
+C:\Users\ACER\Desktop\CursoCSharpe\Array\bin\Debug\net7.0\Array.pdb
+C:\Users\ACER\Desktop\CursoCSharpe\Array\obj\Debug\net7.0\Array.dll
+C:\Users\ACER\Desktop\CursoCSharpe\Array\obj\Debug\net7.0\refint\Array.dll
+C:\Users\ACER\Desktop\CursoCSharpe\Array\obj\Debug\net7.0\Array.pdb
+C:\Users\ACER\Desktop\CursoCSharpe\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
+C:\Users\ACER\Desktop\CursoCSharpe\Array\obj\Debug\net7.0\ref\Array.dll

@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\CursoCSharpe\Condiçãp IF ELSE\obj\Debug\net7.0\Condiçãp IF ELSE.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\CursoCSharpe\Condiçãp IF ELSE\obj\Debug\net7.0\Condiçãp IF ELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\CursoCSharpe\Condiçãp IF ELSE\obj\Debug\net7.0\Condiçãp IF ELSE.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\CursoCSharpe\Condiçãp IF ELSE\obj\Debug\net7.0\Condiçãp IF ELSE.AssemblyInfo.cs
+C:\Users\ACER\Desktop\CursoCSharpe\Condiçãp IF ELSE\obj\Debug\net7.0\Condiçãp IF ELSE.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\CursoCSharpe\Condiçãp IF ELSE\bin\Debug\net7.0\Condiçãp IF ELSE.exe
+C:\Users\ACER\Desktop\CursoCSharpe\Condiçãp IF ELSE\bin\Debug\net7.0\Condiçãp IF ELSE.deps.json
+C:\Users\ACER\Desktop\CursoCSharpe\Condiçãp IF ELSE\bin\Debug\net7.0\Condiçãp IF ELSE.runtimeconfig.json
+C:\Users\ACER\Desktop\CursoCSharpe\Condiçãp IF ELSE\bin\Debug\net7.0\Condiçãp IF ELSE.dll
+C:\Users\ACER\Desktop\CursoCSharpe\Condiçãp IF ELSE\bin\Debug\net7.0\Condiçãp IF ELSE.pdb
+C:\Users\ACER\Desktop\CursoCSharpe\Condiçãp IF ELSE\obj\Debug\net7.0\Condiçãp IF ELSE.dll
+C:\Users\ACER\Desktop\CursoCSharpe\Condiçãp IF ELSE\obj\Debug\net7.0\refint\Condiçãp IF ELSE.dll
+C:\Users\ACER\Desktop\CursoCSharpe\Condiçãp IF ELSE\obj\Debug\net7.0\Condiçãp IF ELSE.pdb
+C:\Users\ACER\Desktop\CursoCSharpe\Condiçãp IF ELSE\obj\Debug\net7.0\Condiçãp IF ELSE.genruntimeconfig.cache
+C:\Users\ACER\Desktop\CursoCSharpe\Condiçãp IF ELSE\obj\Debug\net7.0\ref\Condiçãp IF ELSE.dll

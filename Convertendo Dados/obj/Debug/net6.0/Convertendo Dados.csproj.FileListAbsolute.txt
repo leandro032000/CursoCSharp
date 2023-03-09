@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\CursoCSharpe\Convertendo Dados\bin\Debug\net6.0\Convertendo Dados.exe
+C:\Users\ACER\Desktop\CursoCSharpe\Convertendo Dados\bin\Debug\net6.0\Convertendo Dados.deps.json
+C:\Users\ACER\Desktop\CursoCSharpe\Convertendo Dados\bin\Debug\net6.0\Convertendo Dados.runtimeconfig.json
+C:\Users\ACER\Desktop\CursoCSharpe\Convertendo Dados\bin\Debug\net6.0\Convertendo Dados.dll
+C:\Users\ACER\Desktop\CursoCSharpe\Convertendo Dados\bin\Debug\net6.0\Convertendo Dados.pdb
+C:\Users\ACER\Desktop\CursoCSharpe\Convertendo Dados\obj\Debug\net6.0\Convertendo Dados.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\CursoCSharpe\Convertendo Dados\obj\Debug\net6.0\Convertendo Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\CursoCSharpe\Convertendo Dados\obj\Debug\net6.0\Convertendo Dados.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\CursoCSharpe\Convertendo Dados\obj\Debug\net6.0\Convertendo Dados.AssemblyInfo.cs
+C:\Users\ACER\Desktop\CursoCSharpe\Convertendo Dados\obj\Debug\net6.0\Convertendo Dados.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\CursoCSharpe\Convertendo Dados\obj\Debug\net6.0\Convertendo Dados.dll
+C:\Users\ACER\Desktop\CursoCSharpe\Convertendo Dados\obj\Debug\net6.0\refint\Convertendo Dados.dll
+C:\Users\ACER\Desktop\CursoCSharpe\Convertendo Dados\obj\Debug\net6.0\Convertendo Dados.pdb
+C:\Users\ACER\Desktop\CursoCSharpe\Convertendo Dados\obj\Debug\net6.0\Convertendo Dados.genruntimeconfig.cache
+C:\Users\ACER\Desktop\CursoCSharpe\Convertendo Dados\obj\Debug\net6.0\ref\Convertendo Dados.dll

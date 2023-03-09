@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\CursoCSharpe\Booleano\bin\Debug\net7.0\Booleano.exe
+C:\Users\ACER\Desktop\CursoCSharpe\Booleano\bin\Debug\net7.0\Booleano.deps.json
+C:\Users\ACER\Desktop\CursoCSharpe\Booleano\bin\Debug\net7.0\Booleano.runtimeconfig.json
+C:\Users\ACER\Desktop\CursoCSharpe\Booleano\bin\Debug\net7.0\Booleano.dll
+C:\Users\ACER\Desktop\CursoCSharpe\Booleano\bin\Debug\net7.0\Booleano.pdb
+C:\Users\ACER\Desktop\CursoCSharpe\Booleano\obj\Debug\net7.0\Booleano.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\CursoCSharpe\Booleano\obj\Debug\net7.0\Booleano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\CursoCSharpe\Booleano\obj\Debug\net7.0\Booleano.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\CursoCSharpe\Booleano\obj\Debug\net7.0\Booleano.AssemblyInfo.cs
+C:\Users\ACER\Desktop\CursoCSharpe\Booleano\obj\Debug\net7.0\Booleano.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\CursoCSharpe\Booleano\obj\Debug\net7.0\Booleano.dll
+C:\Users\ACER\Desktop\CursoCSharpe\Booleano\obj\Debug\net7.0\refint\Booleano.dll
+C:\Users\ACER\Desktop\CursoCSharpe\Booleano\obj\Debug\net7.0\Booleano.pdb
+C:\Users\ACER\Desktop\CursoCSharpe\Booleano\obj\Debug\net7.0\Booleano.genruntimeconfig.cache
+C:\Users\ACER\Desktop\CursoCSharpe\Booleano\obj\Debug\net7.0\ref\Booleano.dll
